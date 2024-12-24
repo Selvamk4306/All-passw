@@ -1,0 +1,1 @@
+print("This is a docker image i created for checking if iam doing it correct")
